@@ -17,6 +17,8 @@ $(document).ready(function () {
     //Declaring a variable to store the database info.................
     var database = firebase.database();
 
+    //* Line 18 claims that it is not a function.
+
     //Initializing the variables .....................
     var trainName = "";
     var trainDestination = "";

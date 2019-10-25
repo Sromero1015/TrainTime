@@ -32,7 +32,7 @@
 .panel, .card-heading {
     padding-left : 10px;
     background-color : gold;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Times New Roman', sans-serif;
     letter-spacing: .45em;
 }
 
@@ -41,7 +41,8 @@
 }
 
 .btn{
-    background-color : gold; 
+    background-color : black;
+    color: whitesmoke; 
     cursor: pointer;
     width : 100%;
     opacity : 0.79;
