@@ -1,0 +1,56 @@
+#banner {
+    margin: 20px;
+    position : relative;
+    background-position: 0% 55%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', sans-serif;
+    color : gold;
+    letter-spacing: .45em;
+    text-shadow: 4px 3px grey;
+    background-color: black;
+}
+
+.card{
+    border : solid;
+    border-radius: 10px;
+    box-shadow: 0 7px 6px -6px;
+}
+
+#trainTable, #form-input{
+    font-family: 'Exo 2', sans-serif;
+}
+
+.thead-default{
+    background-color : lightgrey; 
+}
+.tableBody{
+    height : 100px;
+    overflow : auto;
+}
+
+.panel, .card-heading {
+    padding-left : 10px;
+    background-color : gold;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: .45em;
+}
+
+.form-control, .tableRow {
+    box-shadow : inset 1px 0 10px;
+}
+
+.btn{
+    background-color : gold; 
+    cursor: pointer;
+    width : 100%;
+    opacity : 0.79;
+    border : none;
+    font-weight: bold;
+    font-family: 'Times New Roman', sans-serif;
+    letter-spacing: .45em;
+    box-shadow: 0 8px 6px -6px grey;
+}
+.btn:hover{
+    opacity: 1;
+}
